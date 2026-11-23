@@ -20,7 +20,7 @@ Realizar un análisis exploratorio de datos (EDA) sobre una base consolidada de 
 
 ## Cómo ejecutar el notebook
 * **En Google Colab**:
-  1. Abre el archivo `[Data Analysis].ipynb` desde el repositorio en GitHub o cárgalo directamente en Google Colab.
+  1. Abre el archivo Data Analysis.ipynb desde el repositorio en GitHub o cárgalo directamente en Google Colab.
   2. Ejecuta las celdas en orden de arriba hacia abajo (`Runtime` → `Run all` o `Entorno de ejecución` → `Ejecutar todas`).
 * **En local (Jupyter Notebook / JupyterLab)**:
   1. Clona el repositorio y asegúrate de tener instaladas librerías como `pandas`, `numpy`, `matplotlib` y `seaborn`.
